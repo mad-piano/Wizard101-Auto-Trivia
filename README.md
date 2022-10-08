@@ -6,8 +6,10 @@ This is a program that will automatically answer Wizard101 trivia questions; it 
 
 >How do I use this?
 
-* 1: download [Python](#https://www.python.org/).
-* 2: download [Selenium](#https://pypi.org/project/selenium/).
+* 1: Download [Python](https://www.python.org/).
+* 2: Download [Selenium](https://pypi.org/project/selenium/).
+* 3: Go into the "main.py", and edit the "enter your username here" and "enter your password here" with the credentials needed.
+* 4: Run the "main.py" file, it will automotically open another window. It will auto login, click on a compatiable quiz; then press enter when you're on the quiz page.
 
 >Will this automatically do all 10 quizes at once?
 
