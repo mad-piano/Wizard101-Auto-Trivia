@@ -1,7 +1,7 @@
 # Wizard101-Auto-Trivia
 
 ## Purpose
-This is a program that will automatically answer Wizard101 trivia questions; it currently can solve all the Trivia that relate **specifically** to Wizard101 and the Pirate101 Valencia quiz. The program uses Python Selenium to interact with the web page, you can add more QA of different trivia in the Dictionary if you want more options (it can already solve up to 10 quizes by default).
+This is a program that will automatically answer Wizard101 trivia questions; it currently can solve all the Trivia that relate **specifically** to Wizard101 and the Pirate101 Valencia quiz. The program uses Python & Selenium to interact with the web page, you can add more QA of different trivia in the Dictionary if you want more options (it can already solve up to 10 quizes by default).
 ##
 
 >How do I use this?
