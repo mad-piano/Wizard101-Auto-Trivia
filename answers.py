@@ -195,6 +195,6 @@
     "Who does Steed send you to speak to in Sivella?":"Thaddeus",
     "What's the name of a librarian in Sivella?":"Grassi",
     "The Mooshu Tower in Sivella is a replica of what?":"Tower of Serenity",
-    "What type of boat do you use to get from the docks to Sivella?":"Gondola"
+    "What type of boat do you use to get from the docks to Sivella?":"Gondola",
     "What kind of disguise do you wear in Sivella?":"Clockwork"
 }
