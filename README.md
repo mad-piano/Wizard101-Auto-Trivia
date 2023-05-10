@@ -7,7 +7,7 @@
 ## Purpose
 This is a Python program that will automatically answer Wizard101 trivia questions; it currently can solve all the Trivia that relate **specifically** to all Wizard101 and the Pirate101 Valencia quizes. It will earn up to 10 crowns per quiz solved, with a max of 100 crowns per day, per account!
 
-## How does it work/Features and Important Info
+## How does it Work/Features and Important Info
 This Python program uses [undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) and the [Buster-extension](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) to stealthily navigate through the webpage and solve the captcha. Solving the captcha can take anywhere from 3 seconds to 5 minutes depending if chrome detects the bot or not. It is **HIGHLY** recommended that you use a vpn like [Planet-VPN](https://freevpnplanet.com/) (or any other really) to prevent a potential temp web IP ban form KI or chrome! The program will automatically refresh and continue if a page crashes or if a captcha was failed, and it records the total amount of crowns earned in the data.txt file in the text_files folder!
 
 ## Known 'Issues'
