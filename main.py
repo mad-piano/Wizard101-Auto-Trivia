@@ -15,7 +15,6 @@ from bs4 import BeautifulSoup
 from random import choice
 from threadium import Threadium
 
-# 3SR5PGR4JZB5AXOP4EFND6SS7TAKCH3A api key
 class AutoTrivia():
     """Main module that automates the trivia"""
     def __init__(self):
