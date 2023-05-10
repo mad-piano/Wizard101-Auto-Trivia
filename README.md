@@ -13,6 +13,9 @@ This Python program uses [undetected-chromedriver](https://github.com/ultrafunka
 ## Known 'Issues'
 When a page crashes, the program should refresh and continue and if the program ever seems 'stuck' -- restart it (however, please note the program may take time to refresh and start back where it was). Additionally, when solving the captcha you may see a message pop up that says "your computer is sending automatic queries", you can ignore the message; it may take the bot several minutes to bypass chrome's detection. I plan to optimize the program and add some features if enough people use it.
 
+## Quick Note!!!
+There are some leftover modules and files from either scrapped ideas/features or no longer necessary files. You can obviously ignore these. I kept them incase I needed to revert something, or if I plan to add/finish a feature! 
+
 > How do I use this?
 
 * 1: Download [Python](https://www.python.org/).
