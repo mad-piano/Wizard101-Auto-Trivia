@@ -22,7 +22,8 @@ There are some leftover modules and files from either scrapped ideas/features or
 * 2: Open CMD and navigate to wherever you put this project folder, enter the command: pip install -r requirements.txt
 * 3: Go into the text_files folder and open the accounts.txt file, add your accounts on each lines (username then a space then a password) I added an example for you to use as reference in the text file (overwrite them with your accounts).
 * 4: Make sure to run your vpn if you want to be cautious.
-* 5: Run the "main.py" file, it will automotically open another window. It will auto login, click on a compatiable quiz and continue solving until all quizes for all the accounts are finished.
+* 5: Configure your chrome to have the buster extension installed, or install it when the window opens. Make sure to follow the instructions buster has to get a free api key. Add it, AND MAKE SURE TO DISABLE the 'contribution page' and load the content in English (leave everything else default)
+* 6: Run the "main.py" file, it will automotically open another window. It will auto login, click on a compatiable quiz and continue solving until all quizes for all the accounts are finished.
 
 > Will this automatically do all 10 quizes at once?
 
